@@ -3,6 +3,8 @@
 Overview:
 The SQL Murder Mystery is designed as both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime. Participants are tasked with solving a murder mystery by querying a database and analyzing the provided data.
 
+Link: https://mystery.knightlab.com/
+
 How to Solve:
 If you're ready to solve the mystery, you can access the web-based version at mystery.knightlab.com. For those new to SQL, starting with the walkthrough is recommended to learn the necessary SQL concepts and commands. It won't cover everything about SQL but should provide enough guidance to solve the mystery.
 
